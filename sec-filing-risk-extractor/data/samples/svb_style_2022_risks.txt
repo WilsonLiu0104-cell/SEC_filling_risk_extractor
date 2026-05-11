@@ -1,0 +1,31 @@
+Item 1A. Risk Factors
+
+The following risk factors and other information included in this Annual Report on Form 10-K should be carefully considered. The risks and uncertainties described below are not the only ones the Company faces. Additional risks and uncertainties not currently known to the Company, or that we currently deem to be immaterial, also may materially adversely affect our business, financial condition, and operating results.
+
+Risks Related to Interest Rate Environment
+
+Rapid changes in interest rates are likely to have a material adverse effect on our financial condition and results of operations. Our earnings depend substantially on the difference between the interest income we earn on loans and securities and the interest expense we pay on deposits and borrowings. The recent and ongoing rapid increases in interest rates by the Federal Reserve have reduced the fair value of our available-for-sale and held-to-maturity securities portfolios, and further increases would result in additional unrealized losses. Both interest income and interest expense are affected by general economic conditions and by policies of regulatory authorities, including the monetary policies of the Federal Reserve. While we attempt to manage our interest rate risk through asset-liability management strategies, recent market conditions have demonstrated that these strategies may not be effective in periods of rapid rate movement, and we may be required to take actions that could adversely affect our results.
+
+Risks Related to Deposit Concentration
+
+A significant portion of our deposits are concentrated in customers operating in the technology and life sciences sectors. The Company believes its focus on these sectors is a strategic strength. However, customer concentration could result in deposit volatility if economic conditions in these sectors deteriorate. The current environment of reduced venture capital funding activity and elevated cash burn among our client base has resulted in increased deposit outflows during recent quarters, and continued sector weakness could materially affect our deposit base.
+
+Risks Related to Liquidity
+
+We rely on deposits as a primary source of funding for our lending and investment activities. We maintain liquid assets and access to wholesale funding sources to meet anticipated funding needs. Recent market conditions have required the Company to increase reliance on wholesale funding sources, including Federal Home Loan Bank advances, at higher cost than deposit funding. A significant or sustained reduction in deposits, particularly among our largest depositors, could require the Company to sell securities at a loss, materially affecting our financial condition. Management routinely evaluates our liquidity position.
+
+Risks Related to Loan Portfolio Composition
+
+Our loan portfolio is concentrated in commercial loans to technology, life sciences, and venture-backed companies. The performance of these loans is influenced by the operating performance and financing environment of these sectors. We employ underwriting standards designed to mitigate credit risk, including covenant structures appropriate to early-stage borrowers.
+
+Risks Related to Held-to-Maturity Securities Portfolio
+
+A substantial portion of our investment portfolio is classified as held-to-maturity. While such securities are carried at amortized cost on our balance sheet and unrealized losses on these securities are not reflected in reported earnings or stockholders' equity, the fair value of these securities may be substantially below amortized cost. If liquidity needs were to require us to sell securities classified as held-to-maturity, we could be required to recognize substantial losses, which could materially adversely affect our capital position and ability to operate. Reclassification of any held-to-maturity securities to available-for-sale would also require recognition of unrealized losses against stockholders' equity.
+
+Risks Related to Cybersecurity
+
+The Company relies on technology systems to deliver our services. Cybersecurity threats, including unauthorized access, malicious software, and denial-of-service attacks, could disrupt our operations. The Company invests in information security infrastructure and employs industry-standard practices to protect our systems and customer data.
+
+Risks Related to Regulatory Capital Requirements
+
+The Company is subject to regulatory capital requirements administered by federal banking agencies. Failure to maintain required capital levels could result in regulatory actions that would adversely affect our operations. The Company currently maintains capital levels in excess of regulatory minimums.

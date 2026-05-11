@@ -1,0 +1,93 @@
+{
+  "description": "Manually labeled ground truth for evaluation. Each filing pair has labels for what a human analyst would flag as a meaningful delta. 'Meaningful' = a substantive shift in risk characterization that would warrant analyst re-review. Pure cosmetic edits ('we' -> 'the Company'), routine numeric updates within an order of magnitude, and minor formatting changes are NOT meaningful.",
+  "version": "1.0",
+  "annotator": "Wilson Liu",
+  "test_cases": [
+    {
+      "id": "svb_style",
+      "label": "known_signal",
+      "description": "Models the SVB 2021->2022 case. Multiple meaningful escalations in interest rate, deposit, and liquidity language plus a new HTM securities risk and a removed reputation risk.",
+      "prior_file": "svb_style_2021_risks.txt",
+      "current_file": "svb_style_2022_risks.txt",
+      "ground_truth_deltas": [
+        {
+          "risk_topic": "Interest Rate Environment",
+          "change_type": "ESCALATION",
+          "rationale": "Language shift from 'may have an adverse effect' to 'are likely to have a material adverse effect'. New specific disclosure about Fed rate increases reducing fair value of AFS and HTM securities portfolios. New acknowledgment that hedging strategies may not be effective in periods of rapid rate movement.",
+          "severity": "high"
+        },
+        {
+          "risk_topic": "Deposit Concentration",
+          "change_type": "ESCALATION",
+          "rationale": "New specific language about reduced venture capital funding activity and elevated cash burn resulting in increased deposit outflows during recent quarters. Prior filing was generic; current filing names the active stressor.",
+          "severity": "high"
+        },
+        {
+          "risk_topic": "Liquidity",
+          "change_type": "ESCALATION",
+          "rationale": "New disclosure of increased reliance on wholesale funding (FHLB advances) at higher cost. New specific warning about being required to sell securities at a loss if deposit reduction continues. Prior filing only stated liquidity was adequate.",
+          "severity": "high"
+        },
+        {
+          "risk_topic": "Held-to-Maturity Securities Portfolio",
+          "change_type": "NEW",
+          "rationale": "Entirely new risk factor in current filing. Discloses that fair value of HTM securities may be substantially below amortized cost and that liquidity-driven sales would force loss recognition.",
+          "severity": "high"
+        },
+        {
+          "risk_topic": "Reputation",
+          "change_type": "REMOVED",
+          "rationale": "Reputation risk factor present in prior filing has been removed in current filing.",
+          "severity": "medium"
+        }
+      ],
+      "expected_quiet": [
+        "Loan Portfolio Composition",
+        "Cybersecurity",
+        "Regulatory Capital Requirements"
+      ]
+    },
+    {
+      "id": "routine",
+      "label": "routine_no_signal",
+      "description": "Routine large-cap filing pair. All edits are cosmetic or routine numeric updates. The system should flag nothing or near-nothing here. False positives in this case represent the noise problem.",
+      "prior_file": "routine_2023_risks.txt",
+      "current_file": "routine_2024_risks.txt",
+      "ground_truth_deltas": [],
+      "expected_quiet": [
+        "Macroeconomic and Industry Risks",
+        "Competition",
+        "Operational Risks",
+        "Manufacturing Defects",
+        "Legal and Regulatory Compliance",
+        "Legal Proceedings",
+        "Financial Risks",
+        "Retail Stores"
+      ],
+      "notes": "Legal proceedings reserve updated from $0.6B to $0.7B. This is a routine quarterly update of a numeric figure, not a language shift, and should not be flagged. Flagging it would represent the kind of false positive the system is designed to avoid."
+    },
+    {
+      "id": "restructured",
+      "label": "edge_case_alignment",
+      "description": "Same risk factors as prior filing but reordered, with one risk title slightly renamed ('International Operations' -> 'International Operations and Geopolitical Risk'). One genuine meaningful escalation hidden in the reordering. Tests whether alignment is robust to ordering changes.",
+      "prior_file": "restructured_prior_risks.txt",
+      "current_file": "restructured_current_risks.txt",
+      "ground_truth_deltas": [
+        {
+          "risk_topic": "International Operations",
+          "change_type": "ESCALATION",
+          "rationale": "Major expansion of risk factor. Prior version cited generic foreign-jurisdiction risks. Current version adds specific language about escalating trade tensions, export controls on advanced semiconductor technology, and acknowledges these have already materially affected revenue. This is exactly the kind of signal a thesis would turn on.",
+          "severity": "high"
+        }
+      ],
+      "expected_quiet": [
+        "Industry Cyclicality",
+        "Supply Chain",
+        "Intellectual Property",
+        "Technology Transitions",
+        "Cybersecurity"
+      ],
+      "notes": "Customer concentration percentage updated from 45% to 48%, but no language shift. Should not be flagged. Six of seven risks are pure reorderings with no substantive change."
+    }
+  ]
+}

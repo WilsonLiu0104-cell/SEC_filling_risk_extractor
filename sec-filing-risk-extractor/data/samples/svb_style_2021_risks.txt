@@ -1,0 +1,31 @@
+Item 1A. Risk Factors
+
+The following risk factors and other information included in this Annual Report on Form 10-K should be carefully considered. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties not currently known to us, or that we currently deem to be immaterial, also may materially adversely affect our business, financial condition, and operating results.
+
+Risks Related to Interest Rate Environment
+
+Changes in interest rates may have an adverse effect on our financial condition and results of operations. Our earnings depend largely on the difference between the interest income we earn on loans and securities and the interest expense we pay on deposits and borrowings. Both interest income and interest expense are affected by general economic conditions and by policies of regulatory authorities, including the monetary policies of the Federal Reserve. We attempt to manage our interest rate risk through asset-liability management strategies, but no assurance can be given that these strategies will be successful in all market conditions.
+
+Risks Related to Deposit Concentration
+
+A significant portion of our deposits are concentrated in customers operating in the technology and life sciences sectors. We believe our focus on these sectors is a strategic strength. However, customer concentration could result in deposit volatility if economic conditions in these sectors deteriorate. Historically, our deposit base has remained stable through varying market conditions.
+
+Risks Related to Liquidity
+
+We rely on deposits as a primary source of funding for our lending activities. We maintain liquid assets and access to wholesale funding sources to meet anticipated funding needs. Management routinely evaluates our liquidity position and believes our current liquidity profile is adequate to meet anticipated demands.
+
+Risks Related to Loan Portfolio Composition
+
+Our loan portfolio is concentrated in commercial loans to technology, life sciences, and venture-backed companies. The performance of these loans is influenced by the operating performance and financing environment of these sectors. We employ underwriting standards designed to mitigate credit risk, including covenant structures appropriate to early-stage borrowers.
+
+Risks Related to Cybersecurity
+
+We rely on technology systems to deliver our services. Cybersecurity threats, including unauthorized access, malicious software, and denial-of-service attacks, could disrupt our operations. We invest in information security infrastructure and employ industry-standard practices to protect our systems and customer data.
+
+Risks Related to Regulatory Capital Requirements
+
+We are subject to regulatory capital requirements administered by federal banking agencies. Failure to maintain required capital levels could result in regulatory actions that would adversely affect our operations. We currently maintain capital levels in excess of regulatory minimums.
+
+Risks Related to Reputation
+
+Our reputation is important to attracting and retaining customers, employees, and investors. Negative publicity, whether or not founded, could damage our reputation. We seek to maintain strong relationships with our stakeholders through transparent communication and responsible business practices.

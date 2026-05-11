@@ -1,0 +1,27 @@
+Item 1A. Risk Factors
+
+The Company's business, financial condition, operating results, and cash flows can be affected by a number of factors, including, but not limited to, those set forth below.
+
+Macroeconomic and Industry Risks
+
+The Company's operations and performance depend significantly on global and regional economic conditions, and adverse macroeconomic conditions can materially adversely affect the Company's business, results of operations, financial condition, and stock price. The Company has international operations with sales outside the U.S. representing a majority of the Company's total net sales. In addition, a substantial portion of the Company's supply chain, manufacturing, and assembly activities are located outside the U.S.
+
+The Company's products and services are highly competitive and subject to aggressive competition in all areas of its business. Competition in the markets for the Company's products and services is intense. The Company faces substantial competition from companies that have significant technical, marketing, distribution, and other resources, as well as established hardware, software, digital content, and service offerings. Principal competitive factors include price, product features, performance, quality and reliability, design innovation, brand, ease of use, security, and the availability of applications and services.
+
+Operational Risks
+
+The Company depends on component and product manufacturing and logistical services provided by outsourcing partners, many of whom are located outside of the U.S. Substantially all of the Company's manufacturing is performed in whole or in part by outsourcing partners primarily located in Asia. The Company has also outsourced much of its transportation and logistics management. The supply of components is also dependent on a limited number of suppliers, including single-source suppliers in some cases.
+
+The Company's products and services may be affected from time to time by design and manufacturing defects that could materially adversely affect the Company's business and result in harm to the Company's reputation. The Company offers complex hardware and software products and services that can be affected by design and manufacturing defects. Sophisticated operating system software and applications can contain bugs or other defects that interfere with their intended operation.
+
+Legal and Regulatory Compliance Risks
+
+The Company is subject to complex and changing laws and regulations worldwide, which expose the Company to potential liabilities, increased costs, and other adverse effects on the Company's business. The Company's global operations are subject to complex and changing laws and regulations on subjects, including antitrust; privacy, data protection, and data localization; consumer protection; advertising, sales, billing, and e-commerce; product liability; environmental, health, and safety, including climate change.
+
+The Company is subject to legal proceedings and claims that have not yet been finally resolved and that could materially adversely affect the Company. The Company is and has been subject to legal proceedings and claims that have not yet been resolved. Where the Company can reasonably estimate a range of possible losses, the Company has recorded a reserve for these matters of approximately $0.7 billion as of the end of the fiscal year.
+
+Financial Risks
+
+The Company expects its quarterly net sales and operating results to fluctuate. The Company's profit margins vary across its products, services, geographic segments, and distribution channels. The Company's results of operations are subject to a variety of factors, many of which are outside the Company's control.
+
+The Company's retail stores have required and may continue to require a substantial investment and commitment of resources and are subject to numerous risks and uncertainties. The Company's retail stores have required substantial fixed investment in equipment and leasehold improvements, information systems, inventory, and personnel.

@@ -1,0 +1,29 @@
+Item 1A. Risk Factors
+
+Risks Related to Our Industry
+
+The semiconductor industry is highly cyclical, characterized by periods of rapid growth followed by periods of overcapacity, declining demand, and reduced revenue. Our financial results are significantly affected by these cycles. We have experienced significant cyclical effects in past periods and expect to continue to experience cyclicality going forward.
+
+Risks Related to Customer Concentration
+
+A small number of customers account for a substantial portion of our revenue. In the most recent fiscal year, our top five customers accounted for approximately 45% of our net revenue. The loss of any of these customers, or a significant reduction in orders from them, could materially adversely affect our results of operations. Our customer relationships are typically governed by purchase orders rather than long-term supply agreements, providing customers with significant flexibility to reduce or cancel orders.
+
+Risks Related to Supply Chain
+
+We rely on a limited number of suppliers and subcontractors for certain components and manufacturing services. Disruption in the supply of these components, including as a result of natural disasters, political instability, or other unforeseen events, could materially affect our ability to deliver products to customers on a timely basis.
+
+Risks Related to International Operations
+
+A significant portion of our revenue is generated from customers outside the United States, and we have significant operations in multiple foreign jurisdictions. Our international operations expose us to risks including changes in foreign currency exchange rates, foreign tax laws, trade restrictions, and political and economic instability in the countries where we operate.
+
+Risks Related to Intellectual Property
+
+Our success depends in significant part on protection of our intellectual property rights. We rely on a combination of patent, copyright, trademark, and trade secret laws, as well as confidentiality agreements with our employees, customers, and partners, to protect our intellectual property. Notwithstanding these protections, our intellectual property rights could be challenged, invalidated, or circumvented.
+
+Risks Related to Technology Transitions
+
+Rapid technological change is a hallmark of our industry. Our success depends on our ability to anticipate and adapt to technology transitions. Failure to develop products that meet evolving customer requirements, or to develop them on a timely basis, could materially adversely affect our competitive position.
+
+Risks Related to Cybersecurity
+
+We rely on our information technology systems to manage business operations. Cybersecurity threats, including unauthorized access, ransomware, and phishing attacks, could disrupt our operations or result in unauthorized access to confidential information. We invest in security infrastructure and employ industry-standard practices, but no security measure can eliminate the risk of a successful attack.

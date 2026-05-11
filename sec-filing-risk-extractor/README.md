@@ -75,7 +75,7 @@ For each pair:
 - **True positives, false positives, false negatives** vs. ground truth
 - **Diff baseline hunk count** — how many entries the analyst would have to read using the baseline approach
 
-### Results (mock provider)
+### Results
 
 ```
 Precision: 1.00   Recall: 1.00   F1: 1.00
@@ -86,6 +86,9 @@ Precision: 1.00   Recall: 1.00   F1: 1.00
 | routine       |            0 |              0 |          2 |
 | restructured  |            1 |              1 |          4 |
 ```
+
+<img width="2994" height="1878" alt="SEC Filing Risk Extractor" src="https://github.com/user-attachments/assets/0b8f9a0b-f1cc-4002-8812-0d9ac3823d9d" />
+
 
 **The honest reading.** A 1.00 precision/recall in mock mode is not strong evidence the real system will achieve the same. The mock classifier is keyed on the same escalation-phrase patterns embedded in the test data, which is partially circular. What the mock-mode evaluation does prove definitively:
 

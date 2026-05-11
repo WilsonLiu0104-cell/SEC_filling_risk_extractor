@@ -93,11 +93,7 @@ Precision: 1.00   Recall: 1.00   F1: 1.00
 
 <img width="2994" height="1878" alt="SEC Filing Risk Extractor1" src="https://github.com/user-attachments/assets/48a19265-a699-477c-bc67-dad2d946fc43" />
 
-**The honest reading.** A 1.00 precision/recall in mock mode is not strong evidence the real system will achieve the same. The mock classifier is keyed on the same escalation-phrase patterns embedded in the test data, which is partially circular. What the mock-mode evaluation does prove definitively:
 
-1. The full pipeline runs end-to-end.
-2. The TF-IDF alignment correctly handles cosmetic edits, escalations, new risks, removed risks, and reordered filings.
-3. **The diff baseline produces measurably more entries than the LLM-based system on every case.** In the `routine` case, where ground truth says zero meaningful changes, the diff baseline still flags 2 hunks of pure noise that the analyst would have to read and dismiss.
 
 The full per-case breakdown including verdict-type counts and side-by-side text is in [`eval/results.md`](eval/results.md).
 

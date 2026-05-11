@@ -95,7 +95,7 @@ Precision: 1.00   Recall: 1.00   F1: 1.00
 
 
 
-The full per-case breakdown including verdict-type counts and side-by-side text is in [`eval/results.md`](eval/results.md).
+The sample evaluation with F1=1 may not stand in other cases since the test set is small indeed. The full per-case breakdown including verdict-type counts and side-by-side text is in [`eval/results.md`](eval/results.md).
 
 ### Where the project breaks down
 

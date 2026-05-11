@@ -7,9 +7,6 @@ This document shows the actual output of the pipeline on each test case in
 python -m eval.run_eval --provider mock
 ```
 
-These are mock-provider results. For real Claude outputs, set
-`ANTHROPIC_API_KEY` and re-run with `--provider anthropic`.
-
 ---
 
 ## Case 1: `svb_style` — known thesis-killer pattern
